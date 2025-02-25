@@ -5,7 +5,7 @@ CATrans: Remote Sensing Image Segmentation based on Cross Scale Attention and Vi
 ## Method
 
 ## Test and train
-Our code is based on [GLNet](https://github.com/VITA-Group/GLNet)  
+Our code is based on [GLNet](https://github.com/VITA-Group/GLNet) and [FCtl](https://github.com/liqiokkk/fctl)  
 python>=3.6 and pytorch>=1.2.0  
 Please install the dependencies: `pip install -r requirements.txt`
 ### dataset
